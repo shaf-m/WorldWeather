@@ -9,7 +9,7 @@
 from customDarkButton import *  # Custom class consisting of button for dark mode
 from customLightButton import *  # Custom class consisting of button for light mode
 from requests_html import HTMLSession  # Essential class for web-scraping requests VIA Google
-import emoji  # Pre-created module for emoticon unicode decryption
+import emoji  # Module for emoticon unicode decryption
 
 
 # the main() function consists of all the application's code, compressed into one function
