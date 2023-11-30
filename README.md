@@ -1,6 +1,6 @@
 # Welcome to WorldWeather
 
-WorldWeather is a weather widget for MacOS and Windows. Using with BS4 and HTML-requests, weather data is accessed by web-scraping the weather data on Google. Dark and light mode themes can be toggled by the user in the UI itself. You can check the weather of any city in the world. In additon, you can also search short forms or local slang of cities. For example, if a user searches "Sauga" (common slang for Mississauga, On), the corresponding weather data for Mississauga will be displayed. Weather data is also displayed in the Python console for easy debugging.
+WorldWeather is a weather widget for MacOS and Windows. Using with BS4 and HTML-requests, weather data is accessed by web-scraping and parsing the weather data on Google. Dark and light mode themes can be toggled by the user in the UI itself. You can check the weather of any city in the world. In addition, you can also search short forms or local slang of cities. For example, if a user searches "Sauga" (common slang for Mississauga, On), the corresponding weather data for Mississauga will be displayed. Weather data is also displayed in the Python console for easy debugging.
 
 # UI Demo
 
